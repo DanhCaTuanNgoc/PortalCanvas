@@ -48,6 +48,8 @@ Done when:
 
 ## Phase 2: Visual Modeling MVP
 
+Status: Completed. See [PHASE_2_MODELING_CANVAS.md](PHASE_2_MODELING_CANVAS.md).
+
 Mục tiêu:
 - Xây phần canvas whiteboard để mô hình hóa contract bằng node và edge.
 
@@ -66,6 +68,8 @@ Done when:
 
 ## Phase 3: Inspection Layer
 
+Status: In progress. See [PHASE_3_INSPECTION_LAYER.md](PHASE_3_INSPECTION_LAYER.md).
+
 Mục tiêu:
 - Cho người dùng hiểu contract hoạt động thế nào từ graph.
 
@@ -82,6 +86,8 @@ Done when:
 - Một action node có thể giải thích được gọi bởi ai, chạm storage nào, và phát event gì.
 
 ## Phase 4: Runtime Integration
+
+Status: In progress. See [PHASE_4_RUNTIME_INTEGRATION.md](PHASE_4_RUNTIME_INTEGRATION.md).
 
 Mục tiêu:
 - Kết nối PortalCanvas với Portaldot local node hoặc mainnet.

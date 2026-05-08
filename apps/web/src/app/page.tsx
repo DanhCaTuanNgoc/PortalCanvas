@@ -210,7 +210,7 @@ export default function Home() {
             </nav>
 
             <a
-              href="#workflow"
+              href="/canvas"
               className="inline-flex items-center gap-2 rounded-full border-[3px] border-ink bg-primary px-5 py-2.5 text-sm font-black text-ink shadow-brut transition hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-brut-lg"
             >
               Start Building
@@ -231,7 +231,7 @@ export default function Home() {
 
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <a
-                href="#workflow"
+                href="/canvas"
                 className="inline-flex items-center justify-center gap-2 rounded-full border-[3px] border-ink bg-primary px-6 py-3.5 text-sm font-black text-ink shadow-brut transition hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-brut-lg"
               >
                 Open the canvas
